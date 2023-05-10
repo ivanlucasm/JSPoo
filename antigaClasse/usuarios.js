@@ -2,7 +2,7 @@ const user = {
     nome: "Ivan",
     email: "ivan@email.com",
     nascimento: "2021/03/04",
-    role: "admin",
+    role: "estudante",
     ativo: true,
 
     exibirDados: function(){ 
